@@ -1,0 +1,1346 @@
+2025-12-5
+Rendering UV GBuffer for SampleScene_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftraceRTX fixpos12 "D:/U3D_Projects/My project/Assets/BakeData" "uvpos_SampleScene_LM0.lz4" 2 0 0 0
+Running ftraceRTX sunsh "D:/U3D_Projects/My project/Assets/BakeData" "light_1_0" 1924 0 0 direct0.bin
+Running ftraceRTX addmul "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0" 4 0 0 comp_0.bin
+Running ftraceRTX texgi "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM00.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM01.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM02.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM03.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgish "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_final" 1924 16 0 "gi_SampleScene_LM04.bin" "SampleScene_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX addsh "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_final_" 4 0 0 shcomp_0.bin
+Running denoiserOIDN s "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L0.lz4" "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1x.lz4" "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1y.lz4" "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1z.lz4" 256 0
+Running seamfixer "D:/U3D_Projects/My project/Assets/BakeData" "0" "SampleScene_LM0_final_L0.lz4" "SampleScene_LM0_final_L1x.lz4" "SampleScene_LM0_final_L1y.lz4" "SampleScene_LM0_final_L1z.lz4"
+Loading geometry...
+Tris filtered by LMID: was 800, left 200
+Collecting edges...
+600 edges
+Sorting...
+Finding seams...X
+0 seams
+Running halffloat2hdr "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L0.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L0.hdr" 1024
+Initializing D3D...
+Done
+Running rgba2tga "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1x.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1x.tga" 
+Done
+Running rgba2tga "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1y.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1y.tga" 
+Done
+Running rgba2tga "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1z.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1z.tga" 
+Done
+C:\build\output\Unity-Technologies\mono\mono\eglib\gpath.c:115: assertion 'filename != NULL' failed
+
+C:\build\output\Unity-Technologies\mono\mono\eglib\gpath.c:115: assertion 'filename != NULL' failed
+
+C:\build\output\Unity-Technologies\mono\mono\eglib\gpath.c:115: assertion 'filename != NULL' failed
+
+C:\build\output\Unity-Technologies\mono\mono\eglib\gpath.c:115: assertion 'filename != NULL' failed
+
+Error reading command from socket2025-12-11
+Rendering UV GBuffer for SampleScene_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftraceRTX fixpos12 "D:/U3D_Projects/My project/Assets/BakeData" "uvpos_SampleScene_LM0.lz4" 2 0 0 0
+Running ftraceRTX sunsh "D:/U3D_Projects/My project/Assets/BakeData" "light_1_0" 1924 0 0 direct0.bin
+Running ftraceRTX addmul "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0" 4 0 0 comp_0.bin
+Running ftraceRTX texgi "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM00.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM01.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM02.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM03.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgish "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_final" 1924 16 0 "gi_SampleScene_LM04.bin" "SampleScene_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX addsh "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_final_" 4 0 0 shcomp_0.bin
+Running denoiserOIDN s "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L0.lz4" "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1x.lz4" "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1y.lz4" "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1z.lz4" 1024 0
+Running seamfixer "D:/U3D_Projects/My project/Assets/BakeData" "0" "SampleScene_LM0_final_L0.lz4" "SampleScene_LM0_final_L1x.lz4" "SampleScene_LM0_final_L1y.lz4" "SampleScene_LM0_final_L1z.lz4"
+Loading geometry...
+Tris filtered by LMID: was 129032, left 32258
+Collecting edges...
+96774 edges
+Sorting...
+Finding seams...X
+0 seams
+Running halffloat2hdr "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L0.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L0.hdr" 1024
+Initializing D3D...
+Done
+Running rgba2tga "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1x.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1x.tga" 
+Done
+Running rgba2tga "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1y.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1y.tga" 
+Done
+Running rgba2tga "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1z.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1z.tga" 
+Done
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for SampleScene_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftraceRTX fixpos12 "D:/U3D_Projects/My project/Assets/BakeData" "uvpos_SampleScene_LM0.lz4" 2 0 0 0
+Running ftraceRTX sunsh "D:/U3D_Projects/My project/Assets/BakeData" "light_1_0" 1924 0 0 direct0.bin
+Running ftraceRTX addmul "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0" 4 0 0 comp_0.bin
+Running ftraceRTX texgi "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM00.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM01.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM02.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM03.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgish "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_final" 1924 16 0 "gi_SampleScene_LM04.bin" "SampleScene_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX addsh "D:/U3D_Projects/My project/Assets/BakeData" "SampleScene_LM0_final_" 4 0 0 shcomp_0.bin
+Running denoiserOIDN s "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L0.lz4" "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1x.lz4" "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1y.lz4" "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1z.lz4" 1024 0
+Running seamfixer "D:/U3D_Projects/My project/Assets/BakeData" "0" "SampleScene_LM0_final_L0.lz4" "SampleScene_LM0_final_L1x.lz4" "SampleScene_LM0_final_L1y.lz4" "SampleScene_LM0_final_L1z.lz4"
+Loading geometry...
+Tris filtered by LMID: was 129032, left 32258
+Collecting edges...
+96774 edges
+Sorting...
+Finding seams...X
+0 seams
+Running halffloat2hdr "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L0.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L0.hdr" 1024
+Initializing D3D...
+Done
+Running rgba2tga "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1x.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1x.tga" 
+Done
+Running rgba2tga "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1y.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1y.tga" 
+Done
+Running rgba2tga "D:/U3D_Projects/My project/Assets/BakeData/SampleScene_LM0_final_L1z.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1z.tga" 
+Done
+abort_threads: Failed aborting id: 00000000000062D0, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 00000000000062D0, mono_thread_manage will ignore it
+
+2025-12-11
+Rendering UV GBuffer for SampleScene_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftraceRTX fixpos12 "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "uvpos_SampleScene_LM0.lz4" 2 0 0 0
+Running ftraceRTX sunsh "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "light_1_0" 1924 0 0 direct0.bin
+Running ftraceRTX addmul "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0" 4 0 0 comp_0.bin
+Running ftraceRTX texgi "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM00.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM01.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM02.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM03.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgish "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0_final" 1924 16 0 "gi_SampleScene_LM04.bin" "SampleScene_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX addsh "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0_final_" 4 0 0 shcomp_0.bin
+Running denoiserOIDN s "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L0.lz4" "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L1x.lz4" "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L1y.lz4" "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L1z.lz4" 1024 0
+Running seamfixer "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "0" "SampleScene_LM0_final_L0.lz4" "SampleScene_LM0_final_L1x.lz4" "SampleScene_LM0_final_L1y.lz4" "SampleScene_LM0_final_L1z.lz4"
+Loading geometry...
+Tris filtered by LMID: was 129032, left 32258
+Collecting edges...
+96774 edges
+Sorting...
+Finding seams...X
+0 seams
+Running halffloat2hdr "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L0.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L0.hdr" 1024
+Initializing D3D...
+Done
+Running rgba2tga "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L1x.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1x.tga" 
+Done
+Running rgba2tga "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L1y.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1y.tga" 
+Done
+Running rgba2tga "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L1z.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1z.tga" 
+Done
+[             ] Require frontend run.  Library/Bee/Playere678ca1f.dag couldn't be loaded
+Finished compiling graph: 256 nodes, 528 flattened edges (526 ToBuild, 2 ToUse), maximum node priority 29
+[ 1/62      0s] WriteText Library/Bee/artifacts/Android/d8kzr/_dummy_for_header_discovery
+[ 2/62      0s] WriteText Library/Bee/artifacts/csharpactions/UnityClassRegistration.cpp_3kzo.info
+[ 3/62      0s] WriteText Library/Bee/artifacts/csharpactions/dummy-FeaturesChecked.txt_emel.info
+[ 4/62      0s] WriteText Library/Bee/artifacts/csharpactions/unity_app_guid_aeqz.info
+[ 5/62      0s] WriteText Library/Bee/artifacts/csharpactions/IntermediateFiles.txt_ri9j.info
+[ 6/62      0s] WriteResponseFile Library/Bee/artifacts/rsp/8739613238185505734.rsp
+[ 7/62      0s] WriteText Library/Bee/artifacts/csharpactions/IntermediateLauncherManifestDiag.txt_4oyd.info
+[ 8/62      0s] WriteText Library/Bee/artifacts/csharpactions/boot.config_x4e9.info
+[ 9/62      0s] WriteText D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/resources/META-INF/com.android.games.engine.build_fingerprint
+[10/62      0s] WriteText D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/strings.xml
+[11/62      0s] WriteText D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/colors.xml
+[12/62      0s] WriteText D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/styles.xml
+[13/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libmain.so
+[14/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml
+[15/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v30/freeformwindow.xml
+[16/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/java/com/unity3d/player/UnityPlayerGameActivity.java
+[17/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png
+[18/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png
+[19/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml
+[20/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar
+[21/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/freeformwindow.xml
+[22/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/strings.xml
+[23/62      0s] WriteText D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v31/styles.xml
+[24/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png
+[25/62      0s] WriteText D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v21/styles.xml
+[26/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/ids.xml
+[27/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/ScriptingAssemblies.json
+[28/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/RuntimeInitializeOnLoads.json
+[29/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+[30/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/Resources/unity default resources
+[31/62      0s] AddBootConfigGUID Library/Bee/artifacts/Android/boot.config
+[32/62      0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/boot.config
+[33/62      0s] ActionGenerateProjectFiles Library/Bee/artifacts/Android/IntermediateFiles.txt (+43 others)
+[34/62      0s] GuidGenerator D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid
+[34/62      0s] Lib_Android_arm64 Library/Bee/artifacts/Android/87lik/il2cpp.a [CacheHit e28f0047ea12e0dcc214590aa710d6b200000000000000000000000000000004]
+[35/62     1765444578s] Lib_Android_arm64 Library/Bee/artifacts/Android/87lik/il2cpp.a
+[37/62      5s] UnityLinker D:/U3D_Projects/My project/Library/Bee/artifacts/unitylinker_xy1a.traceevents
+D:\Unity\UnityHub\Editor\6000.1.11f1\Editor\Data\il2cpp\build\deploy\UnityLinker.exe @Library\Bee\artifacts\rsp\8739613238185505734.rsp
+*** Tundra requires additional run (6.12 seconds), 35 items updated, 62 evaluated
+*** Additional run caused by: contents change of Library/Bee/artifacts/Android/ManagedStripped
+Finished compiling graph: 455 nodes, 1125 flattened edges (1123 ToBuild, 2 ToUse), maximum node priority 177
+[           0s] Delete 1 artifact files that are no longer in use. (like Library\Bee\artifacts\csharpactions\dummy-FeaturesChecked.txt_emel.info)
+[  4/261    0s] WriteText Library/Bee/artifacts/csharpactions/Unity.RenderPipeline.Universal.ShaderLibrary-FeaturesChecked.txt_erxn.info
+[  5/261    0s] WriteText Library/Bee/artifacts/csharpactions/Unity.RenderPipelines.Core.Runtime-FeaturesChecked.txt_9rh7.info
+[  6/261    0s] WriteText Library/Bee/artifacts/csharpactions/Unity.RenderPipelines.Universal.Runtime-FeaturesChecked.txt_7fk5.info
+[  7/261    0s] WriteText Library/Bee/artifacts/csharpactions/System-FeaturesChecked.txt_v90b.info
+[  8/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.PropertiesModule-FeaturesChecked.txt_m9z5.info
+[  9/261    0s] WriteText Library/Bee/artifacts/csharpactions/System.Core-FeaturesChecked.txt_k2yd.info
+[ 10/261    0s] WriteText Library/Bee/artifacts/csharpactions/mscorlib-FeaturesChecked.txt_pwj8.info
+[ 11/261    0s] WriteText Library/Bee/artifacts/csharpactions/Unity.RenderPipelines.GPUDriven.Runtime-FeaturesChecked.txt_gz0s.info
+[ 12/261    0s] WriteText Library/Bee/artifacts/csharpactions/Mono.Security-FeaturesChecked.txt_pcel.info
+[ 13/261    0s] WriteText Library/Bee/artifacts/csharpactions/Unity.InputSystem-FeaturesChecked.txt_ivdb.info
+[ 14/261    0s] WriteText Library/Bee/artifacts/csharpactions/Assembly-CSharp-FeaturesChecked.txt_ki5r.info
+[ 15/261    0s] WriteText Library/Bee/artifacts/csharpactions/BakeryRuntimeAssembly-FeaturesChecked.txt_0qnq.info
+[ 16/261    0s] WriteText Library/Bee/artifacts/csharpactions/Unity.RenderPipelines.Core.Runtime.Shared-FeaturesChecked.txt_024x.info
+[ 17/261    0s] WriteText Library/Bee/artifacts/csharpactions/AmazingAssets.TerrainToMesh-FeaturesChecked.txt_5hrc.info
+[ 18/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.XRModule-FeaturesChecked.txt_xks3.info
+[ 19/261    0s] WriteText Library/Bee/artifacts/csharpactions/Unity.Collections.LowLevel.ILSupport-FeaturesChecked.txt_orex.info
+[ 20/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.VFXModule-FeaturesChecked.txt_r8mm.info
+[ 21/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.VRModule-FeaturesChecked.txt_nz9x.info
+[ 23/261    0s] WriteText Library/Bee/artifacts/csharpactions/Unity.Mathematics-FeaturesChecked.txt_bwkn.info
+[ 24/261    0s] WriteText Library/Bee/artifacts/csharpactions/Unity.InputSystem.ForUI-FeaturesChecked.txt_1qsl.info
+[ 25/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.UnityAnalyticsCommonModule-FeaturesChecked.txt_z4m3.info
+[ 26/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.UIModule-FeaturesChecked.txt_zatd.info
+[ 27/261    0s] WriteText Library/Bee/artifacts/csharpactions/Unity.Collections-FeaturesChecked.txt_imay.info
+[ 28/261    0s] WriteText Library/Bee/artifacts/csharpactions/System.Xml-FeaturesChecked.txt_wnnz.info
+[ 29/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.UIElementsModule-FeaturesChecked.txt_aabo.info
+[ 30/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.UI-FeaturesChecked.txt_v0bu.info
+[ 31/261    0s] WriteText Library/Bee/artifacts/csharpactions/Unity.Burst.Unsafe-FeaturesChecked.txt_9x4w.info
+[ 32/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.TextRenderingModule-FeaturesChecked.txt_ighi.info
+[ 33/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.TilemapModule-FeaturesChecked.txt_xct4.info
+[ 34/261    0s] WriteText Library/Bee/artifacts/csharpactions/Unity.Burst-FeaturesChecked.txt_5voi.info
+[ 35/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.TextCoreTextEngineModule-FeaturesChecked.txt_el85.info
+[ 36/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.TextCoreFontEngineModule-FeaturesChecked.txt_4rfo.info
+[ 37/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.TerrainModule-FeaturesChecked.txt_wybo.info
+[ 38/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.SubsystemsModule-FeaturesChecked.txt_vzqa.info
+[ 39/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.SharedInternalsModule-FeaturesChecked.txt_sm9d.info
+[ 40/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.SpriteShapeModule-FeaturesChecked.txt_zrrh.info
+[ 41/261    0s] WriteText Library/Bee/artifacts/csharpactions/System.Configuration-FeaturesChecked.txt_vfp9.info
+[ 42/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.PhysicsModule-FeaturesChecked.txt_2l1t.info
+[ 43/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.Physics2DModule-FeaturesChecked.txt_45hf.info
+[ 44/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.JSONSerializeModule-FeaturesChecked.txt_vjsc.info
+[ 45/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.InputModule-FeaturesChecked.txt_xblj.info
+[ 46/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.InputLegacyModule-FeaturesChecked.txt_y5my.info
+[ 47/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.InputForUIModule-FeaturesChecked.txt_awp5.info
+[ 48/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.IMGUIModule-FeaturesChecked.txt_ufk2.info
+[ 49/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.HierarchyCoreModule-FeaturesChecked.txt_rzjr.info
+[ 50/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine-FeaturesChecked.txt_x1ug.info
+[ 51/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.GridModule-FeaturesChecked.txt_5p9t.info
+[ 52/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.AudioModule-FeaturesChecked.txt_tbfa.info
+[ 53/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.CoreModule-FeaturesChecked.txt_uimb.info
+[ 54/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.AnimationModule-FeaturesChecked.txt_3sdh.info
+[ 55/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.AIModule-FeaturesChecked.txt_jr17.info
+[ 56/261    0s] WriteText Library/Bee/artifacts/csharpactions/UnityEngine.AndroidJNIModule-FeaturesChecked.txt_x3ln.info
+[ 58/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.AIModule-FeaturesChecked.txt
+[ 59/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.HierarchyCoreModule-FeaturesChecked.txt
+[ 60/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.AnimationModule-FeaturesChecked.txt
+[ 61/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.InputModule-FeaturesChecked.txt
+[ 62/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.AndroidJNIModule-FeaturesChecked.txt
+[ 63/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.CoreModule-FeaturesChecked.txt
+[ 64/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.InputForUIModule-FeaturesChecked.txt
+[ 65/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.InputLegacyModule-FeaturesChecked.txt
+[ 66/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.AudioModule-FeaturesChecked.txt
+[ 67/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.GridModule-FeaturesChecked.txt
+[ 68/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.IMGUIModule-FeaturesChecked.txt
+[ 69/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine-FeaturesChecked.txt
+[ 70/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.JSONSerializeModule-FeaturesChecked.txt
+[ 71/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.Physics2DModule-FeaturesChecked.txt
+[ 72/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.PhysicsModule-FeaturesChecked.txt
+[ 73/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.SubsystemsModule-FeaturesChecked.txt
+[ 74/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Configuration-FeaturesChecked.txt
+[ 75/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.SharedInternalsModule-FeaturesChecked.txt
+[ 76/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.SpriteShapeModule-FeaturesChecked.txt
+[ 77/261    0s] ICallRegistrationGenerator D:/U3D_Projects/My project/Library/Bee/artifacts/Android/il2cppOutput/UnityICallRegistration.cpp
+[ 78/261    0s] ClassRegistrationGenerator D:/U3D_Projects/My project/Library/Bee/artifacts/Android/il2cppOutput/UnityClassRegistration.cpp
+[ 79/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.RenderPipeline.Universal.ShaderLibrary-FeaturesChecked.txt
+[ 80/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.RenderPipelines.Core.Runtime.Shared-FeaturesChecked.txt
+[ 81/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Collections.LowLevel.ILSupport-FeaturesChecked.txt
+[ 82/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/AmazingAssets.TerrainToMesh-FeaturesChecked.txt
+[ 83/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Burst.Unsafe-FeaturesChecked.txt
+[ 84/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.RenderPipelines.Universal.Runtime-FeaturesChecked.txt
+[ 85/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Xml-FeaturesChecked.txt
+[ 86/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UIElementsModule-FeaturesChecked.txt
+[ 87/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.PropertiesModule-FeaturesChecked.txt
+[ 88/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System.Core-FeaturesChecked.txt
+[ 89/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/System-FeaturesChecked.txt
+[ 90/261    0s] Compile UnityClassRegistration Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityClassRegistration.o
+clang++: warning: '-x c++' after last input file has no effect [-Wunused-command-line-argument]
+[ 91/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Burst-FeaturesChecked.txt
+[ 92/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/mscorlib-FeaturesChecked.txt
+[ 93/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.VFXModule-FeaturesChecked.txt
+[ 94/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.TerrainModule-FeaturesChecked.txt
+[ 95/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.TilemapModule-FeaturesChecked.txt
+[ 96/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.InputSystem.ForUI-FeaturesChecked.txt
+[ 97/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.TextCoreTextEngineModule-FeaturesChecked.txt
+[ 98/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.TextCoreFontEngineModule-FeaturesChecked.txt
+[ 99/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/BakeryRuntimeAssembly-FeaturesChecked.txt
+[100/261    0s] WriteText Library/Bee/artifacts/csharpactions/IntermediateLauncherManifestDiag.txt_4oyd.info
+[108/261    0s] Compile UnityICallRegistration Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityICallRegistration.o
+clang++: warning: '-x c++' after last input file has no effect [-Wunused-command-line-argument]
+[109/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Assembly-CSharp-FeaturesChecked.txt
+[113/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UnityAnalyticsCommonModule-FeaturesChecked.txt
+[114/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextCoreTextEngineModule.pdb
+[115/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextCoreFontEngineModule.dll
+[116/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextCoreTextEngineModule.dll
+[117/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Mathematics-FeaturesChecked.txt
+[118/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.dll
+[119/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TerrainModule.dll
+[120/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TerrainModule.pdb
+[121/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.CoreModule.pdb
+[122/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PropertiesModule.dll
+[123/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.CoreModule.dll
+[124/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AIModule.pdb
+[125/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PropertiesModule.pdb
+[126/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AIModule.dll
+[127/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.IMGUIModule.dll
+[128/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.IMGUIModule.pdb
+[129/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UI.dll
+[130/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AnimationModule.dll
+[131/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AnimationModule.pdb
+[132/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UIModule.pdb
+[133/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UIModule.dll
+[134/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.InputSystem.ForUI.pdb
+[135/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.InputSystem.ForUI.dll
+[136/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SpriteShapeModule.pdb
+[137/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SpriteShapeModule.dll
+[138/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Assembly-CSharp.pdb
+[139/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.JSONSerializeModule.dll
+[140/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.JSONSerializeModule.pdb
+[141/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.dll
+[142/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Collections.dll
+[143/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Xml.dll
+[144/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Collections.pdb
+[145/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Collections.LowLevel.ILSupport.dll
+[146/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.VFXModule.pdb
+[147/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.VFXModule.dll
+[148/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.VRModule.pdb
+[149/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.VRModule.dll
+[150/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Mathematics.dll
+[151/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Core.dll
+[152/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Mathematics.pdb
+[153/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextRenderingModule.dll
+[154/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/BakeryRuntimeAssembly.dll
+[155/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/BakeryRuntimeAssembly.pdb
+[156/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextRenderingModule.pdb
+[157/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.pdb
+[158/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll
+[159/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Core.Runtime.Shared.pdb
+[160/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Core.Runtime.dll
+[161/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll
+[162/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Core.Runtime.pdb
+[163/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Universal.Runtime.pdb
+[164/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.GPUDriven.Runtime.pdb
+[165/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.Universal.Runtime.dll
+[166/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll
+[167/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TilemapModule.pdb
+[168/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TilemapModule.dll
+[169/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/mscorlib.dll
+[170/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Burst.pdb
+[171/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/AmazingAssets.TerrainToMesh.dll
+[172/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PhysicsModule.dll
+[173/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PhysicsModule.pdb
+[174/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.Physics2DModule.dll
+[175/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.Physics2DModule.pdb
+[176/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.pdb
+[177/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.HierarchyCoreModule.dll
+[178/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.Collections-FeaturesChecked.txt
+[179/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputForUIModule.pdb
+[180/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.HierarchyCoreModule.pdb
+[181/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Burst.dll
+[182/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AudioModule.dll
+[183/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityLinkerToEditorData.json
+[184/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SubsystemsModule.pdb
+[185/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AudioModule.pdb
+[186/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SubsystemsModule.dll
+[187/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Mono.Security.dll
+[188/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputForUIModule.dll
+[189/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UI.pdb
+[190/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputModule.dll
+[191/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.GridModule.pdb
+[192/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.GridModule.dll
+[193/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.InputSystem.dll
+[194/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Assembly-CSharp.dll
+[195/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputLegacyModule.pdb
+[196/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputModule.pdb
+[197/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/analytics.json
+[198/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.Burst.Unsafe.dll
+[199/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AndroidJNIModule.dll
+[200/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AndroidJNIModule.pdb
+[201/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputLegacyModule.dll
+[202/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.XRModule.pdb
+[203/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.XRModule.dll
+[204/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SharedInternalsModule.dll
+[205/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SharedInternalsModule.pdb
+[206/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UnityAnalyticsCommonModule.dll
+[207/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UnityAnalyticsCommonModule.pdb
+[208/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Configuration.dll
+[209/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UIElementsModule.dll
+[219/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UIElementsModule.pdb
+[221/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.InputSystem.pdb
+[231/261    0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextCoreFontEngineModule.pdb
+[232/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.XRModule-FeaturesChecked.txt
+[233/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UIModule-FeaturesChecked.txt
+[234/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.VRModule-FeaturesChecked.txt
+[235/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Mono.Security-FeaturesChecked.txt
+[236/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.InputSystem-FeaturesChecked.txt
+[237/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.TextRenderingModule-FeaturesChecked.txt
+[238/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.RenderPipelines.GPUDriven.Runtime-FeaturesChecked.txt
+[239/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/UnityEngine.UI-FeaturesChecked.txt
+[240/261    0s] ExtractUsedFeatures Library/Bee/artifacts/Android/Features/Unity.RenderPipelines.Core.Runtime-FeaturesChecked.txt
+[241/261    1s] Link libunity Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so
+[242/261    0s] Stripping Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so -> Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so
+[243/261    0s] Generate Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so from Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so
+[244/261    0s] Generate Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so from Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so
+[245/261    0s] Adding note Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so -> D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so
+[246/261    6s] IL2CPP_CodeGen D:/U3D_Projects/My project/Library/Bee/artifacts/il2cpp_conv_xcrg.traceevents
+D:\Unity\UnityHub\Editor\6000.1.11f1\Editor\Data\il2cpp\build\deploy\il2cpp.exe --convert-to-cpp --assembly=Library/Bee/artifacts/Android/ManagedStripped/AmazingAssets.TerrainToMesh.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Assembly-CSharp.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/BakeryRuntimeAssembly.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Mono.Security.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/mscorlib.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/System.Configuration.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/System.Core.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/System.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/System.Xml.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Unity.Burst.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Unity.Burst.Unsafe.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Unity.Collections.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Unity.Collections.LowLevel.ILSupport.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Unity.InputSystem.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Unity.InputSystem.ForUI.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Unity.Mathematics.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Unity.RenderPipeline.Universal.ShaderLibrary.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Unity.RenderPipelines.Core.Runtime.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Unity.RenderPipelines.Core.Runtime.Shared.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Unity.RenderPipelines.GPUDriven.Runtime.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/Unity.RenderPipelines.Universal.Runtime.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.AIModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.AndroidJNIModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.AnimationModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.AudioModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.CoreModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.GridModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.HierarchyCoreModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.IMGUIModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.InputForUIModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.InputLegacyModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.InputModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.JSONSerializeModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.Physics2DModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.PhysicsModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.PropertiesModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.SharedInternalsModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.SpriteShapeModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.SubsystemsModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.TerrainModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.TextCoreFontEngineModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.TextCoreTextEngineModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.TextRenderingModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.TilemapModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.UI.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.UIElementsModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.UIModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.UnityAnalyticsCommonModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.VFXModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.VRModule.dll --assembly=Library/Bee/artifacts/Android/ManagedStripped/UnityEngine.XRModule.dll --generatedcppdir=D:/U3D_Projects/My project/Library/Bee/artifacts/Android/il2cppOutput/cpp --symbols-folder=D:/U3D_Projects/My project/Library/Bee/artifacts/Android/il2cppOutput/cpp/Symbols --enable-analytics --emit-null-checks --enable-array-bounds-check --dotnetprofile=unityaot-linux --usymtool-path=D:/Unity/UnityHub/Editor/6000.1.11f1/Editor/Data\Tools\usymtool.exe --profiler-report --profiler-output-file=D:/U3D_Projects/My project/Library/Bee/artifacts/il2cpp_conv_xcrg.traceevents --print-command-line --static-lib-il2-cpp --data-folder=D:/U3D_Projects/My project/Library/Bee/artifacts/Android/il2cppOutput/data
+Warning: [UnityEngine.TextCoreTextEngineModule] - System.Boolean UnityEngine.TextCore.Text.TextGenerator::ValidateHtmlTag(UnityEngine.TextCore.Text.TextProcessingElement[],System.Int32,System.Int32&,UnityEngine.TextCore.Text.TextGenerationSettings,UnityEngine.TextCore.Text.TextInfo,System.Boolean&) - High Variable Count of 250
+Warning: [UnityEngine.TextCoreTextEngineModule] - System.Boolean UnityEngine.TextCore.Text.TextGenerator::ValidateHtmlTag(UnityEngine.TextCore.Text.TextProcessingElement[],System.Int32,System.Int32&,UnityEngine.TextCore.Text.TextGenerationSettings,UnityEngine.TextCore.Text.TextInfo,System.Boolean&) - High Instruction Count of 6305
+Warning: [UnityEngine.TextCoreTextEngineModule] - System.Boolean UnityEngine.TextCore.Text.TextGenerator::ValidateHtmlTag(UnityEngine.TextCore.Text.TextProcessingElement[],System.Int32,System.Int32&,UnityEngine.TextCore.Text.TextGenerationSettings,UnityEngine.TextCore.Text.TextInfo,System.Boolean&) - High CodeSize of 17778
+Warning: [UnityEngine.TextCoreTextEngineModule] - System.Void UnityEngine.TextCore.Text.TextGenerator::ParsingPhase(UnityEngine.TextCore.Text.TextInfo,UnityEngine.TextCore.Text.TextGenerationSettings,System.UInt32&,System.Single&) - High Variable Count of 301
+Warning: [UnityEngine.TextCoreTextEngineModule] - System.Void UnityEngine.TextCore.Text.TextGenerator::ParsingPhase(UnityEngine.TextCore.Text.TextInfo,UnityEngine.TextCore.Text.TextGenerationSettings,System.UInt32&,System.Single&) - High Instruction Count of 5818
+Warning: [UnityEngine.TextCoreTextEngineModule] - System.Void UnityEngine.TextCore.Text.TextGenerator::ParsingPhase(UnityEngine.TextCore.Text.TextInfo,UnityEngine.TextCore.Text.TextGenerationSettings,System.UInt32&,System.Single&) - High CodeSize of 15136
+Warning: [UnityEngine.TextCoreTextEngineModule] - UnityEngine.Vector2 UnityEngine.TextCore.Text.TextGenerator::CalculatePreferredValues(System.Single&,UnityEngine.Vector2,System.Boolean,UnityEngine.TextCore.Text.TextGenerationSettings,UnityEngine.TextCore.Text.TextInfo) - High Variable Count of 208
+Warning: [Unity.InputSystem] - System.Void UnityEngine.InputSystem.FastTouchscreen::.ctor() - High Variable Count of 315
+[247/261   11s] GenerateNativePluginsForAssemblies Library/Bee/artifacts/Android/AsyncPluginsFromLinker
+*** Tundra requires additional run (13.05 seconds), 213 items updated, 261 evaluated
+*** Additional run caused by: contents change of D:/U3D_Projects/My project/Library/Bee/artifacts/Android/il2cppOutput/cpp
+Finished compiling graph: 1232 nodes, 3456 flattened edges (3452 ToBuild, 4 ToUse), maximum node priority 954
+[  81/1038  0s] WriteText Library/Bee/artifacts/csharpactions/unity_app_guid_aeqz.info
+[  82/1038  0s] WriteResponseFile Library/Bee/artifacts/rsp/12438370367218343051.rsp
+[ 246/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/lib_burst_generated.so
+[ 249/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/icallsummary.txt
+[ 250/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/5k7h6h83oh59.o
+[ 251/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/4mbo376f731n.o
+[ 252/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/s5la0liiank4.o
+[ 253/1038  0s] Generate Manifests Library/Bee/artifacts/Android/Manifest/IntermediateLauncherManifestDiag.txt (+3 others)
+[ 254/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/0pw2oj5dh8xs.o
+[ 255/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/10gtepystt4n.o
+[ 256/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/tkpuy8r6pnbd.o
+[ 257/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2ioa3928ifjx.o
+[ 258/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ipwgusd86u4e.o
+[ 259/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/uz90iejunnoy.o
+[ 260/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8mfxod9md1lh.o
+[ 261/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/kyepjzgpfzz5.o
+[ 262/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/uw4a8c6nv6hp.o
+[ 263/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/47djebym6m1q.o
+[ 264/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/a63le6m792e4.o
+[ 265/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/eabor2odar88.o
+[ 266/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/f4w3917d0adj.o
+[ 267/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/0gspay1n1ap7.o
+[ 268/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/g05epsu56fg5.o
+[ 269/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/r15hzxpipd4n.o
+[ 270/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/yxfxxc3k7o7w.o
+[ 271/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/39n6mp00ys5i.o
+[ 272/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/t96kvbp27o5e.o
+[ 273/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/05m0pcunkrwd.o
+[ 274/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/emj1yj0xdusk.o
+[ 275/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/vaz9ysaf4k0u.o
+[ 276/1038 11s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/rcalkkpc1cfp.o
+[ 277/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/l5yggjp4z7ep.o
+[ 278/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7q411lhbsfxd.o
+[ 279/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/h95c4u6za02v.o
+[ 280/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2z4ou6i8a3mx.o
+[ 281/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/m0foxcx5ilk4.o
+[ 282/1038 13s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7rvb9w0nzo20.o
+[ 283/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/e1get9wyik5j.o
+[ 284/1038 10s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/4vwp14zc544z.o
+[ 285/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7jlcmwx3xjva.o
+[ 286/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/kme0krhs4ixy.o
+[ 287/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/pfmy7dwyhodt.o
+[ 288/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/xpvgdxmm3mqh.o
+[ 289/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/08fwrxbhdbgw.o
+[ 290/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/nl2meuknn8wh.o
+[ 291/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/vm9hbhvgbjfk.o
+[ 292/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6qwe06qjcdp9.o
+[ 293/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/uuhtseu0e7zd.o
+[ 294/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/hc6xt6msvurc.o
+[ 295/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/vsinixnrbvlk.o
+[ 296/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/u45g6292bqev.o
+[ 297/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/zv8lbqqsmwit.o
+[ 298/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/805au3ykqw80.o
+[ 299/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/b27bd8rqwwxi.o
+[ 300/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/pxbbnevw5iyh.o
+[ 301/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/rsqwsnd5pa5b.o
+[ 302/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/zpec7b3adfks.o
+[ 303/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/w3kdgeenpcbm.o
+[ 304/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/gy6rg76i7oj8.o
+[ 305/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/hg6riminilej.o
+[ 306/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/13tw49vcj79s.o
+[ 307/1038  4s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/5pzchp0hxz3o.o
+[ 308/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/sv3mof2uckyo.o
+[ 309/1038  4s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/p553c0qsybii.o
+[ 310/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/zfqz380j5dag.o
+[ 311/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/euvuhkq41t1v.o
+[ 312/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/983wvipytnep.o
+[ 313/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/rabufjlkxna7.o
+[ 314/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/uotfustgxm1z.o
+[ 315/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/t2qjtkplrads.o
+[ 316/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2fhq6gzup6zs.o
+[ 317/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/u6jmufzr9og9.o
+[ 318/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/4kqwk6qwcavk.o
+[ 319/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/t6fdjam0a6g1.o
+[ 320/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/jdjldmhiadjg.o
+[ 321/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/506pdbceh3bf.o
+[ 322/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/s9pyjd6gtfl3.o
+[ 323/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/uep1q1ei7gy4.o
+[ 324/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/3zt2tvho2kkb.o
+[ 325/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/et4ka96rukw8.o
+[ 326/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6l2tjoblmps4.o
+[ 327/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8a51cmfijo7h.o
+[ 328/1038 11s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/exd3j20c05d2.o
+[ 329/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/bhzlynuxpi49.o
+[ 330/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ftc8boxjan4c.o
+[ 331/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/96hthsek64d8.o
+[ 332/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7smlg8j06x7n.o
+[ 333/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/jzsy0iph04k0.o
+[ 334/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/l4nzndvdkaa2.o
+[ 335/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/11y709me0duy.o
+[ 336/1038  4s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/y48tfp854vd0.o
+[ 337/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/iuh834mw52lv.o
+[ 338/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/fc8ynmklyut8.o
+[ 339/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7or01vk93eig.o
+[ 340/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7is8ilr43fo2.o
+[ 341/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/opru2yey1gh2.o
+[ 342/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/17w9l1iwl4id.o
+[ 343/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/3uaz5h8tjwmw.o
+[ 344/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/n3lfs2fi92kb.o
+[ 345/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/g0umc46ozogt.o
+[ 346/1038 10s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/hiqrbte37bma.o
+[ 347/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/bwd28t48mfzh.o
+[ 348/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/l3gx1wmflp4e.o
+[ 349/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/m4nijwd9jlco.o
+[ 350/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8m248wd9rvwi.o
+[ 351/1038 10s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2lb0avmcznyt.o
+[ 352/1038 10s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/9xu33gh8wjhy.o
+[ 353/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/puza8c6gb8ni.o
+[ 354/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/sekj0vlfj3h8.o
+[ 355/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/qcptb4s9t3mi.o
+[ 356/1038 11s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/0ztsc8pq57lk.o
+[ 357/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/54s7mnl8ka2k.o
+[ 358/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/byqzrinf6re2.o
+[ 359/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2iai7f3sqnf2.o
+[ 360/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/orbuv5aer7ot.o
+[ 361/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/hmj4qj2mnzv5.o
+[ 362/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/exkgtqppzw6q.o
+[ 363/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/pb0dheea8sgj.o
+[ 364/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/u4lcymvxw377.o
+[ 365/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6jjm0zkfrf5p.o
+[ 366/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/l476875rsy91.o
+[ 367/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/96eibfpbuv0c.o
+[ 368/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7zal9tnp01iy.o
+[ 369/1038  3s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/lc3snj9bvd6d.o
+[ 370/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2p0arf49kxj2.o
+[ 371/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/wer6wcn3h7k1.o
+[ 372/1038 14s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6ihsj79cfsey.o
+[ 373/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/i2ebx1hzoxd0.o
+[ 374/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/eizvpnzrd13e.o
+[ 375/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/64gclfoojpnp.o
+[ 376/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/nf8cagx5dryg.o
+[ 377/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ir8hg38iw23k.o
+[ 378/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/yqdrqo54pvb2.o
+[ 379/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/1nlwn2y9x30z.o
+[ 380/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ocx5jtftke7d.o
+[ 381/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/kbcarz4ppkuc.o
+[ 382/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/h8e3wjnn3qx8.o
+[ 383/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2nirct1k6e9r.o
+[ 384/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/vu2mb4j70ltb.o
+[ 385/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/q279cmitdiy2.o
+[ 386/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/l6y53exnj1gl.o
+[ 387/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/jcdixqsc33jn.o
+[ 388/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8plfwpoq08zu.o
+[ 389/1038 10s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/1eitxqpq2um1.o
+[ 390/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/0f1f3mibu1jk.o
+[ 391/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/qjku1tu8bvxy.o
+[ 392/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/tes61ac7y5pc.o
+[ 393/1038 11s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8h9ldpyjc9qj.o
+[ 394/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ve29p3u9x7sk.o
+[ 395/1038 11s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8i0vk0hwjiw6.o
+[ 396/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/9r0tz2tqn2ix.o
+[ 397/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6jbvohkpvmll.o
+[ 398/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/eu1p87i8x3ck.o
+[ 399/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/e0mbozmm2pyw.o
+[ 400/1038 12s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/u5wqdetfjzji.o
+[ 401/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/oirfo72auv5e.o
+[ 402/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/c47bvksmhwmk.o
+[ 403/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/f1o1uonqymdo.o
+[ 404/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/s67phvv8u38w.o
+[ 405/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/lwvdq7fl4y0q.o
+[ 406/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/oqhfklfh5rzx.o
+[ 407/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/m3ok3bd70rcj.o
+[ 408/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/t1newyeu1k23.o
+[ 409/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/evvj5fynln3r.o
+[ 410/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8gic6df74zlw.o
+[ 411/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/sypnuk3gms9f.o
+[ 412/1038 12s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/n25xxfkm9kf0.o
+[ 413/1038 13s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/zchrzbfa3tpl.o
+[ 414/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8gzbh02zs55i.o
+[ 415/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/l04vz0959jik.o
+[ 416/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/s24e8nzmcphf.o
+[ 417/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ty3j09vtm67p.o
+[ 418/1038 10s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/l3d43xvfc42e.o
+[ 419/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/s7yzo6el2cek.o
+[ 420/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/rk99vj97x53x.o
+[ 421/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/vkrywusrw049.o
+[ 422/1038 12s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6oy0zdy91ppa.o
+[ 423/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8qcp30727h5h.o
+[ 424/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/fruox1uuv4t2.o
+[ 425/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/1mumgrfxquvc.o
+[ 426/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/cqqsyed4nuqs.o
+[ 427/1038  3s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/fyxo6pxmnptm.o
+[ 428/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/kmmkw2i0ctii.o
+[ 429/1038 15s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/9pt2x4eigb8y.o
+[ 430/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2e0lstvywzxe.o
+[ 431/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2vukvtrruei3.o
+[ 432/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/wpayff2mooef.o
+[ 433/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/do2csb11ourz.o
+[ 434/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/krl0gywg3imw.o
+[ 435/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/pay9h49y1u4f.o
+[ 436/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/nwaywskixazq.o
+[ 437/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/0hjzh9k08juu.o
+[ 438/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/1rk89q29605h.o
+[ 439/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/zbqhs0vxvkky.o
+[ 440/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/nv1dxc1kg0vy.o
+[ 441/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/hqn431oijz6x.o
+[ 442/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/zgk28ibwl8g3.o
+[ 443/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/jof4ze2nb7mi.o
+[ 444/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/m2xaw0tuti7v.o
+[ 445/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/wzvx8oco24bd.o
+[ 446/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/5vk5f80saw6p.o
+[ 447/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/swi6ko5slj6i.o
+[ 448/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ikqeem3qzw8r.o
+[ 449/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/azt0c7qckvup.o
+[ 450/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6eha8y4q5yog.o
+[ 451/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/i467rnngzh02.o
+[ 452/1038  3s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/wole5nb6ugcs.o
+[ 453/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/fu3hjzgwhw9z.o
+[ 454/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/4sm9svvfd1uz.o
+[ 455/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/on544w71w2od.o
+[ 456/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/wchq55se151w.o
+[ 457/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/lxmnxizxb85d.o
+[ 458/1038 10s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2o90j4kxdoef.o
+[ 459/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/scm5z2s58fi9.o
+[ 460/1038 10s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/193ilshzb9yf.o
+[ 461/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/pjhu93edkvxs.o
+[ 462/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/smnjrduh30fa.o
+[ 463/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ud9jwejm7yst.o
+[ 464/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/w0232c4pfx2z.o
+[ 465/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/gstl6r4yig7t.o
+[ 466/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/trc2y3icwrkj.o
+[ 467/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7dzlfwz0caqp.o
+[ 468/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/m4fuanwj80h6.o
+[ 469/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/1d7gasamotdt.o
+[ 470/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/4p2fxqcvvn6y.o
+[ 471/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/t5o3bz2n3wbe.o
+[ 472/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/j5zkrqi2juf6.o
+[ 473/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/4j9kpl7ah9dq.o
+[ 474/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7pdsuayyk6rq.o
+[ 475/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/feoyzfa7io63.o
+[ 476/1038 12s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/n3w74q3ygukn.o
+[ 477/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/w5k3b66mnxqf.o
+[ 478/1038  4s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/4vcl7u20d7p9.o
+[ 479/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/scz6nasqvz5x.o
+[ 480/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/r41ofnc74d1t.o
+[ 481/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/a9e5d8dzlgnu.o
+[ 482/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/adfz2n9t8690.o
+[ 483/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/b8lggswyls0p.o
+[ 484/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/d2q76m8e6ort.o
+[ 485/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ob6vciwgd51q.o
+[ 486/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/difzjzziyhu3.o
+[ 487/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6b4qtfg7hgns.o
+[ 488/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/mw30rm6ck18u.o
+[ 489/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ke1e9ui7cw9v.o
+[ 490/1038 12s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8xx8eqexo885.o
+[ 491/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/j6m0w2ptejj5.o
+[ 492/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/9q9jsraegtda.o
+[ 493/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/dp55zfu8171g.o
+[ 494/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/xi962h6bpqbg.o
+[ 495/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/xb5t0tultes1.o
+[ 496/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/mb1dmc3dprlu.o
+[ 497/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ychl6yol0ylq.o
+[ 498/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/njrdbqufn57d.o
+[ 499/1038 11s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/vli835b4399w.o
+[ 500/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2xtfr2s0a0xt.o
+[ 501/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7jjiqwahbptp.o
+[ 502/1038 11s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/mvcrkbn0cs37.o
+[ 503/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7sv0ws86ii4w.o
+[ 504/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/25qsjb3fmnih.o
+[ 505/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/q63q1eyxvz2n.o
+[ 506/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/zhbcguu8shmq.o
+[ 507/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/pnh7tkck9ada.o
+[ 508/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8ou5oe5dtzu7.o
+[ 509/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/lo4oqbwboi5x.o
+[ 510/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/fsly4ce72dzp.o
+[ 511/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/xmbnhs31l91g.o
+[ 512/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/fqjca3fqh3ku.o
+[ 513/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/j006aiho511h.o
+[ 514/1038  3s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/h4mzle8epwfw.o
+[ 515/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/p8plnewxsewx.o
+[ 516/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/nby8a35ox2tm.o
+[ 517/1038 11s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/fl0etn7cmnv1.o
+[ 518/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/cs7qazemstoe.o
+[ 519/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/obt5uydt9mpn.o
+[ 520/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ydxlsw35waj0.o
+[ 521/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/4k98zt18euca.o
+[ 522/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/1g0ccdsfhdxb.o
+[ 523/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/0o4ityrupayi.o
+[ 524/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/zb70usocrw5a.o
+[ 525/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/afzyvu59xxhs.o
+[ 526/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/yue6z836m74g.o
+[ 527/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/krt5799uy8vh.o
+[ 528/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/dun7f5zcmrtr.o
+[ 529/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/fk94lco0eeqe.o
+[ 530/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/1qkyxliwlagf.o
+[ 531/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/hrl09b08g66l.o
+[ 532/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/r4eq3ubsrxoi.o
+[ 533/1038 10s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/0nd9ln8hi1sv.o
+[ 534/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/gze5hhbtz6ai.o
+[ 535/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7m1qselp905v.o
+[ 536/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/iuki7fm3v4tz.o
+[ 537/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/m3ajqipuaazi.o
+[ 538/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/371gpnt4tedu.o
+[ 539/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/azylaugcvjh1.o
+[ 540/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ww29dx8us6ft.o
+[ 541/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/pjvyp803qq61.o
+[ 542/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/mulhd03n5iyk.o
+[ 543/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/uxw7ow41tqd2.o
+[ 544/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ewmtcrh0sw8e.o
+[ 545/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/n4cpzdzugcqy.o
+[ 546/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/t4xt4njbwn6q.o
+[ 547/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/5owwsojr5jyq.o
+[ 548/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6olpme9o3nkw.o
+[ 549/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/axnflhl6ay52.o
+[ 550/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/kvtnjifh81lz.o
+[ 551/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/mta5p1ojrhpc.o
+[ 552/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/edv65w3iy6x0.o
+[ 553/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/evm4ov9g926i.o
+[ 554/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7h1yba8rw6if.o
+[ 555/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ojipvimn14a2.o
+[ 556/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/r2jqajnvgs89.o
+[ 557/1038 11s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/fkq4wybt2ja1.o
+[ 558/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8me903kkkqey.o
+[ 559/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6oeirgaqsbi5.o
+[ 560/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/f0xrnd4drd80.o
+[ 561/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ljwqbflotmbs.o
+[ 562/1038  4s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/sw74l59cfll1.o
+[ 563/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/kskfflt75h14.o
+[ 564/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/z9yixt414hdf.o
+[ 565/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/9yldbs0k4sml.o
+[ 566/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/2on2bp778rrq.o
+[ 567/1038 25s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/4b9r5kotxmva.o
+[ 568/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/udyrjqv5z7sh.o
+[ 569/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/b4cxxox4q7hd.o
+[ 570/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/3hizcbwwrlpj.o
+[ 571/1038 62s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/blq40ytzs30x.o
+[ 572/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/qo98hfj7nj6t.o
+[ 573/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/esdb3xnfnbrl.o
+[ 574/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/76jvb4fk0c4q.o
+[ 575/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/jssxn4e240sd.o
+[ 576/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6yzerozlwanb.o
+[ 577/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/h8wylcyl926d.o
+[ 578/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/m5sz3ho770zy.o
+[ 579/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/q8d1kvlsj0nj.o
+[ 580/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/g1lwjfq16xlg.o
+[ 581/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/gchkuhoc4cuy.o
+[ 582/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/kxi8esifff5y.o
+[ 583/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ejiw8zrzgwbf.o
+[ 584/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/bohp04zpmoz2.o
+[ 585/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/071ha4id28ym.o
+[ 586/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/uciap3z9zpn6.o
+[ 587/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/tokunxppr409.o
+[ 588/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/o2nnf10b0e8t.o
+[ 589/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/lzdmspqt2adx.o
+[ 590/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/q23kdyotggs6.o
+[ 591/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8r3yacrffra5.o
+[ 592/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ldhda546648v.o
+[ 593/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/y4q62coa255v.o
+[ 594/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/s8yoc2m4l6fg.o
+[ 595/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/bznih385ej9h.o
+[ 596/1038 10s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/rykgzgoaigqh.o
+[ 597/1038 11s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/17d9wn6o992z.o
+[ 598/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/vxtt6gbegy1l.o
+[ 599/1038 10s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/uomhctokmsyy.o
+[ 600/1038  0s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/k5ut6yfqgblq.o
+[ 601/1038  1s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/avvri0k79wtp.o
+[ 602/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/xf2rd1m4naec.o
+[ 603/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/9o2sqtv5812b.o
+[ 604/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/1na4aebtqc1n.o
+[ 605/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/pgpsxz28jhpe.o
+[ 606/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/qgaetkqbkrny.o
+[ 607/1038 11s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/u4mghpxvzvyh.o
+[ 608/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/tfjg9lvj6evz.o
+[ 609/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/7ygvkm7hgf6o.o
+[ 610/1038 12s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/td1wuzsurwkp.o
+[ 611/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/n1eoq4091bad.o
+[ 612/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/4ewmgs3e3swj.o
+[ 613/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/0pvs09a7wj35.o
+[ 614/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/cassxn8o0yey.o
+[ 615/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/1f92418293ro.o
+[ 616/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/98prejfjuypg.o
+[ 617/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ioq821ylmnvy.o
+[ 618/1038 10s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/g2c6qq9de7q3.o
+[ 619/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ptbhyyz1isbb.o
+[ 620/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/tw2zw9gxvth2.o
+[ 621/1038  0s] ModifyAndroidProjectCallback D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml (+8 others)
+[ 622/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/BakeryRuntimeAssembly.cpp
+[ 623/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/BakeryRuntimeAssembly_CodeGen.c
+[ 624/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__13.cpp
+[ 625/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__18.cpp
+[ 626/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppReversePInvokeWrapperTable.cpp
+[ 627/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__44.cpp
+[ 628/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__93.cpp
+[ 629/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Burst_CodeGen.c
+[ 630/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__13.cpp
+[ 631/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__73.cpp
+[ 632/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__43.cpp
+[ 633/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppTypeDefinitions.c
+[ 634/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__71.cpp
+[ 635/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__7.cpp
+[ 636/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/__Generated.cpp
+[ 637/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppToEditorData.json
+[ 638/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppRgctxTable.c
+[ 639/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Burst.Unsafe.cpp
+[ 640/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Burst.Unsafe_CodeGen.c
+[ 641/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__59.cpp
+[ 642/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppCCTypeValuesTable.c
+[ 643/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__23.cpp
+[ 644/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__92.cpp
+[ 645/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__91.cpp
+[ 646/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime.Shared_CodeGen.c
+[ 647/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__95.cpp
+[ 648/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__41.cpp
+[ 649/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppGenericMethodPointerTable.c
+[ 650/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppGenericAdjustorThunkTable.c
+[ 651/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppGenericInstDefinitions.c
+[ 652/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppGenericMethodTable.c
+[ 653/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppGenericClassTable.c
+[ 654/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppGenericMethodDefinitions.c
+[ 655/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__81.cpp
+[ 656/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__74.cpp
+[ 657/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Mono.Security_CodeGen.c
+[ 658/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__66.cpp
+[ 659/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine_CodeGen.c
+[ 660/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TextCoreFontEngineModule_CodeGen.c
+[ 661/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TextCoreTextEngineModule_CodeGen.c
+[ 662/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__17.cpp
+[ 663/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__98.cpp
+[ 664/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics__8.cpp
+[ 665/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics__3.cpp
+[ 666/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics__4.cpp
+[ 667/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics__5.cpp
+[ 668/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics__9.cpp
+[ 669/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics__6.cpp
+[ 670/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics__2.cpp
+[ 671/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics__7.cpp
+[ 672/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics__1.cpp
+[ 673/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics.cpp
+[ 674/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics_CodeGen.c
+[ 675/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics__10.cpp
+[ 676/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Mathematics__11.cpp
+[ 677/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__14.cpp
+[ 678/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__68.cpp
+[ 679/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods.cpp
+[ 680/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib.cpp
+[ 681/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__50.cpp
+[ 682/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Resources/mscorlib.dll-resources.dat
+[ 683/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__65.cpp
+[ 684/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipeline.Universal.ShaderLibrary.cpp
+[ 685/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppInteropDataTable.cpp
+[ 686/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/System_CodeGen.c
+[ 687/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__4.cpp
+[ 688/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__6.cpp
+[ 689/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__32.cpp
+[ 690/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__67.cpp
+[ 691/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__79.cpp
+[ 692/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__8.cpp
+[ 693/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__9.cpp
+[ 694/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__5.cpp
+[ 695/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__7.cpp
+[ 696/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__3.cpp
+[ 697/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__4.cpp
+[ 698/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__1.cpp
+[ 699/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__6.cpp
+[ 700/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__2.cpp
+[ 701/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__25.cpp
+[ 702/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__10.cpp
+[ 703/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__16.cpp
+[ 704/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__19.cpp
+[ 705/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__28.cpp
+[ 706/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__26.cpp
+[ 707/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__35.cpp
+[ 708/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__11.cpp
+[ 709/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__18.cpp
+[ 710/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__27.cpp
+[ 711/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__23.cpp
+[ 712/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__34.cpp
+[ 713/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__36.cpp
+[ 714/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__21.cpp
+[ 715/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__12.cpp
+[ 716/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__31.cpp
+[ 717/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__15.cpp
+[ 718/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__33.cpp
+[ 719/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__37.cpp
+[ 720/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__29.cpp
+[ 721/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__22.cpp
+[ 722/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__20.cpp
+[ 723/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__24.cpp
+[ 724/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__17.cpp
+[ 725/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__30.cpp
+[ 726/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__32.cpp
+[ 727/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/GenericMethods__14.cpp
+[ 728/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__61.cpp
+[ 729/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__54.cpp
+[ 730/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__16.cpp
+[ 731/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__38.cpp
+[ 732/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__40.cpp
+[ 733/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__14.cpp
+[ 734/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__28.cpp
+[ 735/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/System.Core_CodeGen.c
+[ 736/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Universal.Runtime_CodeGen.c
+[ 737/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.GPUDriven.Runtime_CodeGen.c
+[ 738/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__11.cpp
+[ 739/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__115.cpp
+[ 740/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__113.cpp
+[ 741/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__119.cpp
+[ 742/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__116.cpp
+[ 743/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__118.cpp
+[ 744/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__114.cpp
+[ 745/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__112.cpp
+[ 746/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__111.cpp
+[ 747/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__110.cpp
+[ 748/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__117.cpp
+[ 749/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Universal.Runtime__8.cpp
+[ 750/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Universal.Runtime__1.cpp
+[ 751/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Universal.Runtime__9.cpp
+[ 752/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.GPUDriven.Runtime__1.cpp
+[ 753/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Universal.Runtime__4.cpp
+[ 754/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Universal.Runtime__5.cpp
+[ 755/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Universal.Runtime__2.cpp
+[ 756/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Universal.Runtime__6.cpp
+[ 757/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.GPUDriven.Runtime__2.cpp
+[ 758/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Universal.Runtime__3.cpp
+[ 759/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Universal.Runtime__7.cpp
+[ 760/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__82.cpp
+[ 761/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__51.cpp
+[ 762/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime_CodeGen.c
+[ 763/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/__Generated_CodeGen.c
+[ 764/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/System.Xml_CodeGen.c
+[ 765/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__48.cpp
+[ 766/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__8.cpp
+[ 767/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__70.cpp
+[ 768/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__37.cpp
+[ 769/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Collections.LowLevel.ILSupport_CodeGen.c
+[ 770/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__3.cpp
+[ 771/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__90.cpp
+[ 772/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__4.cpp
+[ 773/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__49.cpp
+[ 774/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__5.cpp
+[ 775/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/System__1.cpp
+[ 776/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime__5.cpp
+[ 777/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime__2.cpp
+[ 778/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime__3.cpp
+[ 779/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime__4.cpp
+[ 780/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime__1.cpp
+[ 781/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime__8.cpp
+[ 782/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime__6.cpp
+[ 783/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime__7.cpp
+[ 784/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime.cpp
+[ 785/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.GPUDriven.Runtime.cpp
+[ 786/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Universal.Runtime.cpp
+[ 787/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppUnresolvedIndirectCallStubs.cpp
+[ 788/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Burst__1.cpp
+[ 789/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Burst__2.cpp
+[ 790/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppInvokerTable.cpp
+[ 791/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__12.cpp
+[ 792/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__120.cpp
+[ 793/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TextCoreFontEngineModule.cpp
+[ 794/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TextCoreTextEngineModule.cpp
+[ 795/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.JSONSerializeModule_CodeGen.c
+[ 796/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.HierarchyCoreModule_CodeGen.c
+[ 797/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TextRenderingModule_CodeGen.c
+[ 798/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.SpriteShapeModule.cpp
+[ 799/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.InputLegacyModule.cpp
+[ 800/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.IMGUIModule_CodeGen.c
+[ 801/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.AudioModule_CodeGen.c
+[ 802/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.InputModule_CodeGen.c
+[ 803/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.VRModule_CodeGen.c
+[ 804/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIModule_CodeGen.c
+[ 805/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.XRModule_CodeGen.c
+[ 806/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.AIModule_CodeGen.c
+[ 807/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.IMGUIModule__1.cpp
+[ 808/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__15.cpp
+[ 809/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__13.cpp
+[ 810/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__17.cpp
+[ 811/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__18.cpp
+[ 812/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__11.cpp
+[ 813/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__12.cpp
+[ 814/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__16.cpp
+[ 815/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__10.cpp
+[ 816/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__14.cpp
+[ 817/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__19.cpp
+[ 818/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__8.cpp
+[ 819/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__4.cpp
+[ 820/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__1.cpp
+[ 821/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__9.cpp
+[ 822/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.PhysicsModule_CodeGen.c
+[ 823/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TerrainModule_CodeGen.c
+[ 824/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TilemapModule_CodeGen.c
+[ 825/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__7.cpp
+[ 826/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__2.cpp
+[ 827/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__5.cpp
+[ 828/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__6.cpp
+[ 829/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.JSONSerializeModule.cpp
+[ 830/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.HierarchyCoreModule.cpp
+[ 831/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TextRenderingModule.cpp
+[ 832/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule__3.cpp
+[ 833/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.SubsystemsModule_CodeGen.c
+[ 834/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule_CodeGen.c
+[ 835/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.AndroidJNIModule_CodeGen.c
+[ 836/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.PropertiesModule_CodeGen.c
+[ 837/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.InputForUIModule_CodeGen.c
+[ 838/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UnityAnalyticsCommonModule.cpp
+[ 839/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TextCoreTextEngineModule__1.cpp
+[ 840/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TextCoreTextEngineModule__3.cpp
+[ 841/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.SharedInternalsModule_CodeGen.c
+[ 842/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TextCoreTextEngineModule__2.cpp
+[ 843/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UI_CodeGen.c
+[ 844/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.AIModule.cpp
+[ 845/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.VRModule.cpp
+[ 846/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.XRModule.cpp
+[ 847/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIModule.cpp
+[ 848/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UI__3.cpp
+[ 849/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UI__1.cpp
+[ 850/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UI__2.cpp
+[ 851/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.CoreModule.cpp
+[ 852/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.GridModule.cpp
+[ 853/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.AudioModule.cpp
+[ 854/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.InputModule.cpp
+[ 855/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.IMGUIModule.cpp
+[ 856/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.VFXModule.cpp
+[ 857/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.VFXModule_CodeGen.c
+[ 858/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.Physics2DModule.cpp
+[ 859/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.AnimationModule.cpp
+[ 860/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.SharedInternalsModule.cpp
+[ 861/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.AnimationModule_CodeGen.c
+[ 862/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.Physics2DModule_CodeGen.c
+[ 863/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.SubsystemsModule.cpp
+[ 864/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UIElementsModule.cpp
+[ 865/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.AndroidJNIModule.cpp
+[ 866/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.PropertiesModule.cpp
+[ 867/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.InputForUIModule.cpp
+[ 868/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.CoreModule_CodeGen.c
+[ 869/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.GridModule_CodeGen.c
+[ 870/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.SpriteShapeModule_CodeGen.c
+[ 871/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.InputLegacyModule_CodeGen.c
+[ 872/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.CoreModule__3.cpp
+[ 873/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.CoreModule__5.cpp
+[ 874/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.PhysicsModule.cpp
+[ 875/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TerrainModule.cpp
+[ 876/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.CoreModule__4.cpp
+[ 877/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.TilemapModule.cpp
+[ 878/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.CoreModule__2.cpp
+[ 879/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.CoreModule__1.cpp
+[ 880/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppCCFieldValuesTable.c
+[ 881/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__34.cpp
+[ 882/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/AmazingAssets.TerrainToMesh__2.cpp
+[ 883/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/AmazingAssets.TerrainToMesh__1.cpp
+[ 884/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/AmazingAssets.TerrainToMesh.cpp
+[ 885/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/AmazingAssets.TerrainToMesh_CodeGen.c
+[ 886/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__46.cpp
+[ 887/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__39.cpp
+[ 888/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__9.cpp
+[ 889/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__94.cpp
+[ 890/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Collections.LowLevel.ILSupport.cpp
+[ 891/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Collections__1.cpp
+[ 892/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Collections.cpp
+[ 893/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Collections_CodeGen.c
+[ 894/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__75.cpp
+[ 895/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipelines.Core.Runtime.Shared.cpp
+[ 896/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppCCalculateTypeValues.cpp
+[ 897/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppCCalculateFieldValues.cpp
+[ 898/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppCCalculateTypeValues1.cpp
+[ 899/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppCCalculateFieldValues2.cpp
+[ 900/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppCCalculateFieldValues1.cpp
+[ 901/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/System.Core.cpp
+[ 902/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__57.cpp
+[ 903/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__27.cpp
+[ 904/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/System.cpp
+[ 905/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__97.cpp
+[ 906/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/System.Configuration_CodeGen.c
+[ 907/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/System.Configuration.cpp
+[ 908/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__12.cpp
+[ 909/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppCodeRegistration.cpp
+[ 910/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__2.cpp
+[ 911/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__8.cpp
+[ 912/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.RenderPipeline.Universal.ShaderLibrary_CodeGen.c
+[ 913/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__33.cpp
+[ 914/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/System.Xml.cpp
+[ 915/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/Data/Metadata/global-metadata.dat
+[ 916/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__5.cpp
+[ 917/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__7.cpp
+[ 918/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__20.cpp
+[ 919/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__53.cpp
+[ 920/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem.ForUI_CodeGen.c
+[ 921/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem__9.cpp
+[ 922/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem__3.cpp
+[ 923/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem__2.cpp
+[ 924/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem__6.cpp
+[ 925/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem__5.cpp
+[ 926/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem__7.cpp
+[ 927/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem__8.cpp
+[ 928/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem__4.cpp
+[ 929/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem__1.cpp
+[ 930/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem.cpp
+[ 931/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem.ForUI.cpp
+[ 932/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem_CodeGen.c
+[ 933/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem__11.cpp
+[ 934/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.InputSystem__10.cpp
+[ 935/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__69.cpp
+[ 936/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__60.cpp
+[ 937/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__88.cpp
+[ 938/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__86.cpp
+[ 939/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__55.cpp
+[ 940/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__80.cpp
+[ 941/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__15.cpp
+[ 942/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__16.cpp
+[ 943/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__19.cpp
+[ 944/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__13.cpp
+[ 945/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__15.cpp
+[ 946/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__99.cpp
+[ 947/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__52.cpp
+[ 948/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__76.cpp
+[ 949/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__85.cpp
+[ 950/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__42.cpp
+[ 951/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__29.cpp
+[ 952/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__58.cpp
+[ 953/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__18.cpp
+[ 954/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Unity.Burst.cpp
+[ 955/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__77.cpp
+[ 956/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics.cpp
+[ 957/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__9.cpp
+[ 958/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__1.cpp
+[ 959/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__36.cpp
+[ 960/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__24.cpp
+[ 961/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.cpp
+[ 962/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UI.cpp
+[ 963/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__35.cpp
+[ 964/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__10.cpp
+[ 965/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__105.cpp
+[ 966/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__103.cpp
+[ 967/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__109.cpp
+[ 968/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__106.cpp
+[ 969/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__108.cpp
+[ 970/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__104.cpp
+[ 971/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__102.cpp
+[ 972/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__101.cpp
+[ 973/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__100.cpp
+[ 974/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__107.cpp
+[ 975/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/System__2.cpp
+[ 976/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Mono.Security.cpp
+[ 977/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__17.cpp
+[ 978/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__2.cpp
+[ 979/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__78.cpp
+[ 980/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/UnityEngine.UnityAnalyticsCommonModule_CodeGen.c
+[ 981/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__22.cpp
+[ 982/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__56.cpp
+[ 983/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Metadata/global-metadata.dat
+[ 984/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__84.cpp
+[ 985/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__1.cpp
+[ 986/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/analytics.json
+[ 987/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__62.cpp
+[ 988/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib_CodeGen.c
+[ 989/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__10.cpp
+[ 990/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__11.cpp
+[ 991/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__83.cpp
+[ 992/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__63.cpp
+[ 993/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__72.cpp
+[ 994/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__3.cpp
+[ 995/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__26.cpp
+[ 996/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__45.cpp
+[ 997/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__21.cpp
+[ 998/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__30.cpp
+[ 999/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__96.cpp
+[1000/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__25.cpp
+[1001/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__47.cpp
+[1002/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/Data/Resources/mscorlib.dll-resources.dat
+[1003/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppMetadataUsage.c
+[1004/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Il2CppMetadataRegistration.c
+[1005/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/mscorlib__6.cpp
+[1006/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__64.cpp
+[1007/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__89.cpp
+[1008/1038  0s] GuidGenerator D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid
+[1009/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Assembly-CSharp_CodeGen.c
+[1010/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Assembly-CSharp.cpp
+[1011/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__31.cpp
+[1012/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/Generics__87.cpp
+[1013/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/il2cppOutput/System__3.cpp
+[1014/1038  2s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/69uh6tc56mhg.o
+[1015/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/p0tk0f5tfy63.o
+[1016/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ga6ardy4394u.o
+[1017/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/nvkemqdssubc.o
+[1018/1038  7s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/e27n0kgbqta7.o
+[1019/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/tldqd0i1fwt0.o
+[1020/1038  9s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/jg9wrlo3ajeq.o
+[1021/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/6k24vs312vq8.o
+[1022/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/ds2u3j6nynhh.o
+[1023/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/p39tjondg2uz.o
+[1024/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/dptmzmkew3wm.o
+[1025/1038  5s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/8waj1y5sstth.o
+[1026/1038  6s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/1hgu6znbhv2m.o
+[1027/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/mnhxcxkmcyej.o
+[1028/1038  8s] C_Android_arm64 Library/Bee/artifacts/Android/d8kzr/gtkvd3nbqpch.o
+[1029/1038  2s] Link_Android_arm64 Library/Bee/artifacts/Android/d8kzr/libil2cpp.so
+[1030/1038  0s] CopyFiles Library/Bee/artifacts/objcopy_5lmi/libil2cpp.dbg.so
+[1031/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/libil2cpp.dbg.so
+[1032/1038  1s] NdkObjCopy Library/Bee/artifacts/objcopy_5lmi/libil2cpp.sym.so
+[1033/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/libil2cpp.sym.so
+[1034/1038  1s] NdkObjCopy Library/Bee/artifacts/objcopy_5lmi/stripped/libil2cpp.so
+[1035/1038  5s] NdkObjCopy Library/Bee/artifacts/objcopy_5lmi/libil2cpp.so
+[1036/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/libil2cpp.so
+[1037/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libil2cpp.so
+*** Tundra build success (159.92 seconds - 0:02:39), 792 items updated, 1038 evaluated
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for SampleScene_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for SampleScene_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftraceRTX fixpos12 "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "uvpos_SampleScene_LM0.lz4" 2 0 0 0
+Running ftraceRTX fixpos12 "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "uvpos_SampleScene_LMA1.lz4" 2 0 1 0
+Running ftraceRTX sunsh "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "light_1_0" 1924 0 0 direct0.bin
+Running ftraceRTX addmul "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0" 4 0 0 comp_0.bin
+Running ftraceRTX sunsh "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "light_1_1" 1924 0 1 direct0.bin
+Running ftraceRTX addmul "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LMA1" 4 0 1 comp_1.bin
+Running ftraceRTX texgi "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM00.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 1 "gi_SampleScene_LMA10.bin" "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM01.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 1 "gi_SampleScene_LMA11.bin" "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM02.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 1 "gi_SampleScene_LMA12.bin" "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0_diffuse" 4 16 0 "gi_SampleScene_LM03.bin" "SampleScene_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LMA1_diffuse" 4 16 1 "gi_SampleScene_LMA13.bin" "SampleScene_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgish "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0_final" 1924 16 0 "gi_SampleScene_LM04.bin" "SampleScene_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgish "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LMA1_final" 1924 16 1 "gi_SampleScene_LMA14.bin" "SampleScene_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX addsh "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LM0_final_" 4 0 0 shcomp_0.bin
+Running denoiserOIDN s "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L0.lz4" "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L1x.lz4" "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L1y.lz4" "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L1z.lz4" 1024 0
+Running seamfixer "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "0" "SampleScene_LM0_final_L0.lz4" "SampleScene_LM0_final_L1x.lz4" "SampleScene_LM0_final_L1y.lz4" "SampleScene_LM0_final_L1z.lz4"
+Loading geometry...
+Tris filtered by LMID: was 129080, left 32258
+Collecting edges...
+96774 edges
+Sorting...
+Finding seams...X
+0 seams
+Running ftraceRTX addsh "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "SampleScene_LMA1_final_" 4 0 1 shcomp_1.bin
+Running denoiserOIDN s "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LMA1_final_L0.lz4" "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LMA1_final_L1x.lz4" "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LMA1_final_L1y.lz4" "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LMA1_final_L1z.lz4" 256 0
+Running seamfixer "C:\Users\ADMINI~1\AppData\Local\Temp\frender" "1" "SampleScene_LMA1_final_L0.lz4" "SampleScene_LMA1_final_L1x.lz4" "SampleScene_LMA1_final_L1y.lz4" "SampleScene_LMA1_final_L1z.lz4"
+Loading geometry...
+Tris filtered by LMID: was 129080, left 12
+Collecting edges...
+36 edges
+Sorting...
+Finding seams...X
+0 seams
+Running halffloat2hdr "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L0.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L0.hdr" 1024
+Initializing D3D...
+Done
+Running rgba2tga "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L1x.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1x.tga" 
+Done
+Running rgba2tga "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L1y.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1y.tga" 
+Done
+Running rgba2tga "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LM0_final_L1z.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LM0_L1z.tga" 
+Done
+Running halffloat2hdr "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LMA1_final_L0.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LMA1_L0.hdr" 1024
+Initializing D3D...
+Done
+Running rgba2tga "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LMA1_final_L1x.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LMA1_L1x.tga" 
+Done
+Running rgba2tga "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LMA1_final_L1y.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LMA1_L1y.tga" 
+Done
+Running rgba2tga "C:\Users\ADMINI~1\AppData\Local\Temp\frender/SampleScene_LMA1_final_L1z.lz4" "D:/U3D_Projects/My project/Assets/BakeryLightmaps/SampleScene_LMA1_L1z.tga" 
+Done
+[  83/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+[  85/1038  0s] AddBootConfigGUID Library/Bee/artifacts/Android/boot.config
+[  86/1038  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/boot.config
+[  87/1038  6s] UnityLinker D:/U3D_Projects/My project/Library/Bee/artifacts/unitylinker_xy1a.traceevents
+D:\Unity\UnityHub\Editor\6000.1.11f1\Editor\Data\il2cpp\build\deploy\UnityLinker.exe @Library\Bee\artifacts\rsp\8739613238185505734.rsp
+*** Tundra requires additional run (6.21 seconds), 4 items updated, 1038 evaluated
+*** Additional run caused by: contents change of Library/Bee/artifacts/Android/ManagedStripped
+Finished compiling graph: 1231 nodes, 3453 flattened edges (3449 ToBuild, 4 ToUse), maximum node priority 953
+[           0s] Delete 1 artifact files that are no longer in use. (like D:\U3D_Projects\My project\Library\Bee\Android\Prj\IL2CPP\Il2CppBackup\Managed\icallsummary.txt)
+[ 240/1037  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityLinkerToEditorData.json
+[1029/1037  0s] GuidGenerator D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid
+[1030/1037  0s] ClassRegistrationGenerator D:/U3D_Projects/My project/Library/Bee/artifacts/Android/il2cppOutput/UnityClassRegistration.cpp
+*** Tundra build success (0.40 seconds), 3 items updated, 1037 evaluated
+Rebuilding DAG because FileSignature timestamp changed: Library/Bee/Playere678ca1f-inputdata.json
+*** Tundra requires additional run (0.04 seconds), 0 items updated, 0 evaluated
+Finished compiling graph: 1231 nodes, 3453 flattened edges (3449 ToBuild, 4 ToUse), maximum node priority 953
+[  82/1037  0s] WriteText Library/Bee/artifacts/csharpactions/IntermediateLauncherManifestDiag.txt_4oyd.info
+[  83/1037  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+[1032/1037  0s] AddBootConfigGUID Library/Bee/artifacts/Android/boot.config
+[1033/1037  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/boot.config
+[1034/1037  0s] GuidGenerator D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid
+[1035/1037  0s] Generate Manifests Library/Bee/artifacts/Android/Manifest/IntermediateLauncherManifestDiag.txt (+3 others)
+[1036/1037  0s] ModifyAndroidProjectCallback D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml (+8 others)
+*** Tundra build success (0.43 seconds), 7 items updated, 1037 evaluated
+Rebuilding DAG because FileSignature timestamp changed: Library/Bee/Playere678ca1f-inputdata.json
+*** Tundra requires additional run (0.04 seconds), 0 items updated, 0 evaluated
+Finished compiling graph: 1231 nodes, 3453 flattened edges (3449 ToBuild, 4 ToUse), maximum node priority 953
+[  81/1037  0s] WriteText Library/Bee/artifacts/csharpactions/IntermediateLauncherManifestDiag.txt_4oyd.info
+[  83/1037  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+[1032/1037  0s] AddBootConfigGUID Library/Bee/artifacts/Android/boot.config
+[1033/1037  0s] CopyFiles D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/boot.config
+[1034/1037  0s] GuidGenerator D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid
+[1035/1037  0s] Generate Manifests Library/Bee/artifacts/Android/Manifest/IntermediateLauncherManifestDiag.txt (+3 others)
+[1036/1037  0s] ModifyAndroidProjectCallback D:/U3D_Projects/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml (+8 others)
+*** Tundra build success (0.44 seconds), 7 items updated, 1037 evaluated
+abort_threads: Failed aborting id: 000000000000645C, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 0000000000000280, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 0000000000006904, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 000000000000645C, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 0000000000000280, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 0000000000006904, mono_thread_manage will ignore it
+

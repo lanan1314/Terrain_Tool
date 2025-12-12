@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Unlit_MWW_Terrain_Tool
+  m_Shader: {fileID: 4800000, guid: 85ccf780f6884764d88d941c51b93298, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _MULTI_SPLAT_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _ControlTex:
+        m_Texture: {fileID: 18700000, guid: fc95980f0ad3fb64daec91fe4c854143, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RNM0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RNM1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RNM2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Splat:
+        m_Texture: {fileID: 18700000, guid: 313bffd131e8cb14dadac0e6ec548553, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Splat_Mask:
+        m_Texture: {fileID: 18700000, guid: de25b9e02fc28824c81c73bdc5a9c821, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Splat_NMP:
+        m_Texture: {fileID: 18700000, guid: f2a3bbca1ee40fe458cdc82ab8a63f6b, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Lay1AO: 1
+    - _Lay1Metallic: 1
+    - _Lay1NMPScale: 1
+    - _Lay1Smoothness: 1
+    - _Lay1Tilling: 1
+    - _Lay2AO: 1
+    - _Lay2Metallic: 1
+    - _Lay2NMPScale: 1
+    - _Lay2Smoothness: 1
+    - _Lay2Tilling: 1
+    - _Lay3AO: 1
+    - _Lay3Metallic: 1
+    - _Lay3NMPScale: 1
+    - _Lay3Smoothness: 1
+    - _Lay3Tilling: 1
+    - _Lay4AO: 1
+    - _Lay4Metallic: 1
+    - _Lay4NMPScale: 1
+    - _Lay4Smoothness: 1
+    - _Lay4Tilling: 1
+    - _Lay5AO: 1
+    - _Lay5Metallic: 1
+    - _Lay5NMPScale: 1
+    - _Lay5Smoothness: 1
+    - _Lay5Tilling: 1
+    - _Lay6AO: 1
+    - _Lay6Metallic: 1
+    - _Lay6NMPScale: 1
+    - _Lay6Smoothness: 1
+    - _Lay6Tilling: 1
+    - _Lay7AO: 1
+    - _Lay7Metallic: 1
+    - _Lay7NMPScale: 1
+    - _Lay7Smoothness: 1
+    - _Lay7Tilling: 1
+    - _Lay8AO: 1
+    - _Lay8Metallic: 1
+    - _Lay8NMPScale: 1
+    - _Lay8Smoothness: 1
+    - _Lay8Tilling: 1
+    - _Multi_Splat: 1
+    - _Splat1_Height: 0
+    - _Splat2_Height: 0
+    - _Splat3_Height: 0
+    - _Splat4_Height: 0
+    - _Splat5_Height: 0
+    - _Splat6_Height: 0
+    - _Splat7_Height: 0
+    - _Splat8_Height: 0
+    - _Weight: 0.18
+    m_Colors:
+    - _Lay1Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Lay2Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Lay3Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Lay4Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Lay5Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Lay6Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Lay7Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Lay8Color: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
